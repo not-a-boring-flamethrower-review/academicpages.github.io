@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Borning Company Flamethrower Rentals Reviews"
+title: "Borning Company Flamethrower Review"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
