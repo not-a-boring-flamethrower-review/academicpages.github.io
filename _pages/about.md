@@ -8,42 +8,62 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm looking for a product review for "boring company flamethrower" in Mountain View, California. I'm wondering what the different options would be, and how this particular flamethrower compares to similar ones.
+
+Thanks!
+
+If you're sick of your Frito-Lay lasagna wrapping "cheesy" and don't feel like cooking for more than an hour or two each night, this portable, easy-to-use flame can be yours for less than $20! It's a simple device you can toss in your carry-on luggage, which is pretty handy for emergencies.
+
+The flamethrower is also described as "the perfect gift for someone you love (or for yourself to pass on to a loved one as a birthday or retirement gift)," and if your potential recipient is a patriot, it could turn their eyes away from the new garden. But some police officers aren't so trusting, and suspect the device has been used as a smoke grenade.
+
+(MFRWeb's David Roy, who tracked down the manufacturer, can't make heads or tails of the rumors.) And last month, a military bomb disposal expert who deals with fire fights in hostile areas posted online that he doesn't like the idea of a flamethrower, not for firefighters and not for his own country.
+
+
+Is a flamethrower a good thing? Well, it turns out that whenever I fire it off, my skin melts. I literally get my skin on fire," said protester Malika Dahl.
+
+
+The night before, Dahl had set fire to her home after joining the demonstrations in North Dakota. She says she spent months planning her fire.
+
+
+"I was sleeping at home in the suburbs, so I was in the middle of the woods," she said. "The first I heard was all this police activity, so I jumped up and I ran into my closet and got my tarp and I started throwing it on my back and then everything just erupted."
+
+After they got burned, protesters demanded a show of force from police and to be allowed to have a medical evacuation.
+
+"The police did what they're supposed to do. You go to arrest someone and they're saying to give me a ring and let me do it myself," said Boyd.
+
+They're wanting to file a complaint with the federal government.
+
+"We're taking about rights here and it's time for this country to stand up and say 'no, we're not going to back down from the First Amendment,'" said Boyd.
+
+I was also thinking about buying a flamethrower as a gift. When I mentioned this to my dad, he thought I was kidding. Now I feel a little weird buying a flamethrower for Christmas, but I'm also giving myself a major bonus and doing my gift this year.
+
+Thanks, dad!
+
+You're kind of cool, dad. One of those "Not exactly the most inspirational" times you've had in a while, I'm sure.
+
+Good news! The DeLorean shop is opening tomorrow. Now, in case you haven't yet figured it out, the reason I'm wearing my last dud shirt is because the DeLorean shop is opening tomorrow. This means a whole new celebration of H2
+
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Like many other Jekyll-based GitHub Pages templates, not-a-boring-flamethrower-review makes you separate the website's owner from its skin.  This is the core feature that you want.  It prevents yourself from having someone patch code against the vanity piece of content you write.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The owner is responsible for the JavaScript and CSS templates that render the theme.  This was very important to me.  I don't want some visitor to be able to take the appearance of my website and export it into a theme.
+Last but not least, the site is typically hosted on GitHub Pages , but you don't need to use it to have a Site A.  Site A could be hosted elsewhere, for example the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. But nothing beats a good old flamethrower. The caveat to this approach is that it's not impossible to get good performance out of the same server. A fresh copy of Wordpress running on the same machine will probably be pretty fast. It might even be fast enough to use. It's just not very convenient.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The analogy
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Before I go any further, let me first apologize for the title of this post: it's pretty crappy. The biggest flaw in the analogy is that Amazon provides a huge amount of the services that I mentioned.
 
-**Markdown generator**
+You can modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save Elon Musks' files before they are burned to the ground with the boring company flamethrower which we will review in detail! (Hint: Make sure you have the files of the SpaceX Falcon 9 v1.1 liftoff and landing splashdown as you don't want to lose them.)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+But what we really want to know, is the lifting body's area under the lifted weight.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+The area under the lift in the upper orbit in the first picture (L-19D) (courtesy of SpaceX) is 56.42m and a bit under the lifting body's take-off height of 53.9m (almost identical to the NASA lift ratio).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Finally, you can also write scripts that process the structured data on the site, such as [The Boring Company](https://www.boringcompany.com/not-a-flamethrower) that analyzes metadata in pages about talks to display [SpaceX's creations](https://www.spacex.com/news/2020/04/17/crew-demo-2-mission).
 
 For more info
 ------
